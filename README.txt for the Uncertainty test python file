@@ -1,0 +1,8 @@
+README.txt for the Uncertainty test python file
+
+---------------------------------------------------------
+RUN INSTRUCTIONS
+
+-have python 3 installed (3.5.2)
+-have uncertainty installed for said version
+-"python3 "
