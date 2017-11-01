@@ -23,7 +23,7 @@ OUTPUT
 
 Multiplication Check!:
 Result:      18.000000000000000+/-0.900222194794152
-Expected:    18.000000000000000+/-0.900222194794152+/-0.900222194794152
+Expected:     18.0+/-0.900222194794152
 Calculation:   Correct!
 Error:         Correct!
 

@@ -26,7 +26,7 @@ desErr = result*((aErr/a)**2 + (bErr/b)**2)**.5
 
 #print statements so humans can make sure its right
 print("Result:      {:5.17}".format(uncResult))
-print("Expected:    {:5.17}+/-{:5.17}".format(uncResult, desErr))
+print("Expected:    {:5.17}+/-{:5.17}".format(float(result), desErr))
 
 #computerized results for quick veiwing
 if(abs(uncResult.n - float(result)) < EPSILON):
